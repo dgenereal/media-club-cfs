@@ -31,6 +31,6 @@ button {
   border-radius: 8px;
 }
 
-.button: hover {
+.button:hover {
   color: orange;
 }
